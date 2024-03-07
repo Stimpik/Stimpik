@@ -3,6 +3,9 @@ I'm still preparing my portfolio. ;)
 
 <!--
 **Stimpik/Stimpik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Stimpik/badges/large)
 
 Here are some ideas to get you started:
 
