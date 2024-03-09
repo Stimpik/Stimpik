@@ -1,4 +1,4 @@
-## Привет! 👋
+## Привет! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ### Меня зовут Игорь.</br>
 Большую часть жизни я занимался антиквариатом и работал в сфере исскуства, где добился хороших успехов. </br>
 Но с самого детсва, после знакомства с <b>Basic</b> интересовался и поглядывал в сторону IT. В 2023 году решил попробовать себя в разработке и прошел обучение в Нетологии, по направлению "Python-разработчик с нуля".
@@ -19,6 +19,7 @@
 </br>
 </br>
 
+✉️  Вы можете связаться со мной через почту [iderik@mail.ru](mailto:iderik@mail.ru) или телеграм [DerevyankoIgor](https://t.me/Derevyanko_Igor)
 
 
 
@@ -27,11 +28,17 @@
 
 
 
+### Skills
 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
 
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Stimpik/badges/large)
+
+
 
 <!--
 **Stimpik/Stimpik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
