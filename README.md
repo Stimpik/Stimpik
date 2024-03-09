@@ -18,7 +18,7 @@
 <li><a href="https://github.com/Stimpik/9.http.requests/tree/main">Работа с библиотекой requests, http-запросы</a></li>
 </br>
 </br>
-📫 Мои контакты:  [![Telegram Badge](https://img.shields.io/badge/DerevyankoIgor-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Derevyanko_Igor) 
+
 
 
 
