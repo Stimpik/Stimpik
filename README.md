@@ -19,9 +19,7 @@
 
 <li><a href="https://github.com/Stimpik/Final/tree/main">Финальный проект</a></li>
 
-<li><a href="https://github.com/Stimpik/2.1-flask">Flask</a></li>
-
-<li><a href="https://github.com/Stimpik/2.2-asyncio/tree/main">Asyncio</a></li>
+<li><a href="https://github.com/Stimpik/mysite/tree/main">Тестовый блог</a></li>
 
 <li><a href="https://github.com/Stimpik/6.Web-scrapping/tree/main">Web-scrapping</a></li>
 
