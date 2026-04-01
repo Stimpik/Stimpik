@@ -15,6 +15,8 @@
 * Знание SQL для работы с Python
 
 #### К сожалению, реальных проектов я пока не выполнял, по этому поделюсь с вами некоторыми учебными проектами, которые я выполнял в процессе обучения:
+<li><a href="https://github.com/Stimpik/9.http.requests/tree/main">Простой API для управления задачами.</a></li>
+
 <li><a href="https://github.com/Stimpik/coursework/tree/main">Копирование фото из VK на ЯндексДиск</a></li>
 
 <li><a href="https://github.com/Stimpik/Final/tree/main">API Сервис заказа товаров для розничных сетей</a></li>
@@ -23,7 +25,7 @@
 
 <li><a href="https://github.com/Stimpik/6.Web-scrapping/tree/main">Парсер вакансий HH</a></li>
 
-<li><a href="https://github.com/Stimpik/9.http.requests/tree/main">Работа с библиотекой requests, http-запросы</a></li>
+
 </br>
 </br>
 
