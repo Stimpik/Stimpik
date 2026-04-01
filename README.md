@@ -15,7 +15,7 @@
 * Знание SQL для работы с Python
 
 #### Некоторые примеры работ:
-<li><a href="https://github.com/Stimpik/9.http.requests/tree/main">Простой API для управления задачами (FastAPI).</a></li>
+<li><a href="https://github.com/Stimpik/task_manager">Простой API для управления задачами (FastAPI).</a></li>
 
 <li><a href="https://github.com/Stimpik/Final/tree/main">API Сервис заказа товаров для розничных сетей (Django).</a></li>
 
