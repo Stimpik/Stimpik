@@ -15,13 +15,13 @@
 * Знание SQL для работы с Python
 
 #### Некоторые примеры работ:
-<li><a href="https://github.com/Stimpik/9.http.requests/tree/main">Простой API для управления задачами.</a></li>
+<li><a href="https://github.com/Stimpik/9.http.requests/tree/main">Простой API для управления задачами (FastAPI).</a></li>
+
+<li><a href="https://github.com/Stimpik/Final/tree/main">API Сервис заказа товаров для розничных сетей (Django).</a></li>
+
+<li><a href="https://github.com/Stimpik/mysite/tree/main">Тестовый блог (Django).</a></li>
 
 <li><a href="https://github.com/Stimpik/coursework/tree/main">Копирование фото из VK на ЯндексДиск</a></li>
-
-<li><a href="https://github.com/Stimpik/Final/tree/main">API Сервис заказа товаров для розничных сетей</a></li>
-
-<li><a href="https://github.com/Stimpik/mysite/tree/main">Тестовый блог</a></li>
 
 <li><a href="https://github.com/Stimpik/6.Web-scrapping/tree/main">Парсер вакансий HH</a></li>
 
