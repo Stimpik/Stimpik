@@ -17,7 +17,7 @@
 #### К сожалению, реальных проектов я пока не выполнял, по этому поделюсь с вами некоторыми учебными проектами, которые я выполнял в процессе обучения:
 <li><a href="https://github.com/Stimpik/coursework/tree/main">Копирование фото из VK на ЯндексДиск</a></li>
 
-<li><a href="https://github.com/Stimpik/Final/tree/main">Финальный проект</a></li>
+<li><a href="https://github.com/Stimpik/Final/tree/main">API Сервис заказа товаров для розничных сетей</a></li>
 
 <li><a href="https://github.com/Stimpik/mysite/tree/main">Тестовый блог</a></li>
 
