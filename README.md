@@ -21,7 +21,7 @@
 
 <li><a href="https://github.com/Stimpik/mysite/tree/main">Тестовый блог</a></li>
 
-<li><a href="https://github.com/Stimpik/6.Web-scrapping/tree/main">Web-scrapping</a></li>
+<li><a href="https://github.com/Stimpik/6.Web-scrapping/tree/main">Парсер вакансий HH</a></li>
 
 <li><a href="https://github.com/Stimpik/9.http.requests/tree/main">Работа с библиотекой requests, http-запросы</a></li>
 </br>
