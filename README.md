@@ -41,7 +41,7 @@
 ### Skills
 
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,postgres,flask,django,fastapi,docker,linux,mysql,css,html,git,github" />
   </a>
