@@ -1,72 +1,109 @@
-## Привет! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-## Меня зовут Игорь, и я Python-разработчик.
-Большую часть жизни я занимался антиквариатом и работал в сфере исскуства, где добился хороших успехов. </br>
-Но с самого детсва, после знакомства с <b>Basic</b>, интересовался и поглядывал в сторону IT. В 2023 году решил попробовать себя в разработке и прошел обучение в Нетологии по направлению <a href="https://netology.ru/programs/python">Python-разработчик с нуля</a>.
-Сейчас я активно продолжаю свое обучение самостоятельно с помощью литературы и открытых площадок.
-В данный момент я ищу работу или стажировку, где я смогу отточить уже имеющиеся навыки и приобрести новые навыки и знания. 
-### Что я умею:
-* Работа с GIT и GitHub
-* Работа с данными на Python
-* Создание веб-сервисов на Django
-* Работа с базами данных
-* Работа с API сторонних сервисов
-* Юнит-тестирование
-* Работа с ПО для автоматизации развёртывания и управления приложениями — Docker
-* Знание SQL для работы с Python
+## Привет! Меня зовут Игорь, я Python Backend Developer.
 
-#### Некоторые примеры работ:
-<li><a href="https://github.com/Stimpik/task_manager">Простой API для управления задачами (FastAPI).</a></li>
+Я специализируюсь на разработке backend-сервисов на Python: создаю API, работаю с базами данных, интеграциями со сторонними сервисами, контейнеризацией, кэшированием и тестированием.
 
-<li><a href="https://github.com/Stimpik/Final/tree/main">API Сервис заказа товаров для розничных сетей (Django).</a></li>
+До перехода в IT я много лет работал в сфере искусства и антиквариата, где занимался проектами, требующими внимательности к деталям, самостоятельности, коммуникации с клиентами и ответственности за результат. Этот опыт помогает мне в разработке: я умею разбираться в предметной области, доводить задачи до конца и смотреть на продукт не только со стороны кода, но и со стороны пользователя и бизнеса.
 
-<li><a href="https://github.com/Stimpik/mysite/tree/main">Тестовый блог (Django).</a></li>
+В 2023 году я прошёл профессиональную переподготовку по направлению Python-разработки и с тех пор продолжаю активно развиваться в backend-разработке: изучаю архитектуру веб-приложений, работу с API, базами данных, Docker, Redis, SQLAlchemy и современными инструментами разработки.
 
-<li><a href="https://github.com/Stimpik/coursework/tree/main">Копирование фото из VK на ЯндексДиск</a></li>
+Сейчас я открыт к предложениям по backend-разработке на Python, где смогу применять свои навыки в реальных проектах, развиваться в команде и приносить практическую пользу продукту.
 
-<li><a href="https://github.com/Stimpik/6.Web-scrapping/tree/main">Парсер вакансий HH</a></li>
+---
 
+## Что я умею
 
-</br>
-</br>
+* Разработка backend-сервисов на Python
+* Создание REST API на Django / Django REST Framework / FastAPI
+* Работа с реляционными базами данных: PostgreSQL, MySQL, SQLite
+* Проектирование моделей данных и работа с SQL
+* Работа с ORM: Django ORM, SQLAlchemy
+* Работа с миграциями баз данных: Django migrations, Alembic
+* Использование Redis для кэширования и хранения временных данных
+* Интеграция со сторонними API
+* Работа с Git и GitHub
+* Написание юнит-тестов и базовое тестирование API
+* Контейнеризация приложений с Docker
+* Базовая работа с Linux
+* Работа с переменными окружения и конфигурацией приложений
+* HTML / CSS на уровне, достаточном для backend-разработки и простых интерфейсов
 
-### ✉️  Вы можете связаться со мной через почту [iderik@mail.ru](mailto:iderik@mail.ru) или телеграм [@DerevyankoIgor](https://t.me/Derevyanko_Igor)
+---
 
+## Проекты
 
+### Task Manager API
 
+Простой API для управления задачами на FastAPI.
 
+Стек: Python, FastAPI, SQLAlchemy, PostgreSQL, Docker.
 
+[Посмотреть проект](https://github.com/Stimpik/task_manager)
 
+---
 
+### API-сервис заказа товаров для розничных сетей
 
-### Skills
+Backend-сервис на Django для обработки заказов и взаимодействия с данными.
 
+Стек: Python, Django, Django REST Framework, PostgreSQL.
+
+[Посмотреть проект](https://github.com/Stimpik/Final/tree/main)
+
+---
+
+### Тестовый блог
+
+Веб-приложение на Django с базовой логикой публикаций.
+
+Стек: Python, Django, HTML, CSS, SQLite.
+
+[Посмотреть проект](https://github.com/Stimpik/mysite/tree/main)
+
+---
+
+### Копирование фото из VK на Яндекс.Диск
+
+Скрипт для работы со сторонними API: VK API и Яндекс.Диск API.
+
+Стек: Python, REST API, requests.
+
+[Посмотреть проект](https://github.com/Stimpik/coursework/tree/main)
+
+---
+
+### Парсер вакансий HH
+
+Парсер вакансий с обработкой данных и сохранением результатов.
+
+Стек: Python, requests, BeautifulSoup / scraping tools.
+
+[Посмотреть проект](https://github.com/Stimpik/6.Web-scrapping/tree/main)
+
+---
+
+## Технологии
+
+Python · Django · Django REST Framework · FastAPI · Flask · SQLAlchemy · Alembic · Pydantic · Redis · PostgreSQL · MySQL · SQLite · SQL · Docker · Git · GitHub · Linux · REST API · Unit Testing · Pytest · Requests · HTML · CSS
+
+---
+
+## Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,postgres,flask,django,fastapi,docker,linux,mysql,css,html,git,github" />
+    <img src="https://skillicons.dev/icons?i=py,postgres,flask,django,fastapi,docker,linux,mysql,redis,css,html,git,github" />
   </a>
 </p>
 
-### 💻 Codewars:
+---
+
+## Codewars
 
 ![codewars](https://www.codewars.com/users/Stimpik/badges/large)
 
+---
 
+## Контакты
 
-<!--
-**Stimpik/Stimpik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: [iderik@mail.ru](mailto:iderik@mail.ru)
+Telegram: [@DerevyankoIgor](https://t.me/Derevyanko_Igor)
